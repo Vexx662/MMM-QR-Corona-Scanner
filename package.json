@@ -1,0 +1,26 @@
+{
+  "name": "MMM-meta-kiosk-sitago",
+  "version": "1.0.0",
+  "description": "Todo: Insert description here!",
+  "main": "MMM-meta-kiosk-sitago.js",
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "latest",
+    "grunt-eslint": "latest",
+    "grunt-jsonlint": "latest",
+    "grunt-markdownlint": "^1.0.13",
+    "grunt-stylelint": "latest",
+    "grunt-yamllint": "latest",
+    "stylelint-config-standard": "latest",
+    "time-grunt": "latest"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dcc-utils": "^0.4.0",
+    "dotenv": "^8.0.0",
+    "node-nfcpy-id": "^0.1.1",
+    "q": "^1.5.1",
+    "request": "^2.88.0"
+  }
+}
